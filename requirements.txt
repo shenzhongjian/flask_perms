@@ -1,0 +1,13 @@
+flask==2.1.2
+python-consul==1.1.0
+requests==2.25.1                                  ## 爬虫工具包
+requests_html==0.10.0
+Logbook==1.4.0                                    ## 日志管理工具包
+flask-siwadoc==0.1.8                              ## openapi 文档管理
+PyYAML==6.0
+Flask-SQLAlchemy==2.5.1                           ## SQLAlchemy操作的flask扩展
+pycryptodome==3.7.3                               ## 各种算法和协议的加密模块的结合工具包
+PyMySQL==0.9.3                                    ## mysql客户端
+apache-skywalking==0.8.0
+PyJWT==1.6.4                                      ## JWT
+aiohttp==3.8.3
